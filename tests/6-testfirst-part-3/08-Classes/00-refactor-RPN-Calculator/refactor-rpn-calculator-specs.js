@@ -46,7 +46,6 @@ describe('Calculator using reverse polish notation', () => {
      Infix: 2-3
      Postfix: 2 3 -
     */
-
     rpnCalculatorInstance.push(2);
     rpnCalculatorInstance.push(3);
     // [2,3]
