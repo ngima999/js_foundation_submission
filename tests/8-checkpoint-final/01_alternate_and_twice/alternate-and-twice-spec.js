@@ -29,6 +29,7 @@ describe('alternate', () => {
   });
 });
 
+
 describe('twice', () => {
   it('should return a function object', () => {
     const funcReturned = twice(() => {
