@@ -7,6 +7,7 @@ function hello(name) {
   }
 }
 
+
 function add(number, num) {
   return number + num;
 }
